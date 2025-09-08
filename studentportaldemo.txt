@@ -1,0 +1,4 @@
+Student name:Amarnath
+Roll no:10
+Course: BCA
+academic year: 3rd year
